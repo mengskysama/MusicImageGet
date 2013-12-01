@@ -1,0 +1,8 @@
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.exe
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.pdb
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.Form1.resources
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.Properties.Resources.resources
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.csproj.GenerateResource.Cache
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.Form2.resources
+D:\code\C#\MusicImageGet\MusicImageGet\bin\Debug\MusicImageGet.exe
+D:\code\C#\MusicImageGet\MusicImageGet\bin\Debug\MusicImageGet.pdb
