@@ -34,6 +34,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.开始ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.支持m4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.supportAACFLACToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -67,7 +68,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.开始ToolStripMenuItem,
-            this.支持m4ToolStripMenuItem});
+            this.支持m4ToolStripMenuItem,
+            this.supportAACFLACToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1001, 25);
@@ -84,9 +86,15 @@
             // 支持m4ToolStripMenuItem
             // 
             this.支持m4ToolStripMenuItem.Name = "支持m4ToolStripMenuItem";
-            this.支持m4ToolStripMenuItem.Size = new System.Drawing.Size(121, 21);
-            this.支持m4ToolStripMenuItem.Text = "(支持苹果aac/flac)";
+            this.支持m4ToolStripMenuItem.Size = new System.Drawing.Size(87, 21);
+            this.支持m4ToolStripMenuItem.Text = "Drop in List";
             this.支持m4ToolStripMenuItem.Click += new System.EventHandler(this.支持m4ToolStripMenuItem_Click);
+            // 
+            // supportAACFLACToolStripMenuItem
+            // 
+            this.supportAACFLACToolStripMenuItem.Name = "supportAACFLACToolStripMenuItem";
+            this.supportAACFLACToolStripMenuItem.Size = new System.Drawing.Size(127, 21);
+            this.supportAACFLACToolStripMenuItem.Text = "Support AAC FLAC";
             // 
             // Form1
             // 
@@ -115,6 +123,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem 开始ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem 支持m4ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem supportAACFLACToolStripMenuItem;
     }
 }
 

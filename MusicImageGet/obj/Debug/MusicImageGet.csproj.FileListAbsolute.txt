@@ -6,3 +6,4 @@ D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.csproj.GenerateRe
 D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.Form2.resources
 D:\code\C#\MusicImageGet\MusicImageGet\bin\Debug\MusicImageGet.exe
 D:\code\C#\MusicImageGet\MusicImageGet\bin\Debug\MusicImageGet.pdb
+D:\code\C#\MusicImageGet\MusicImageGet\obj\Debug\MusicImageGet.csprojResolveAssemblyReference.cache
